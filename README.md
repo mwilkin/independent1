@@ -6,7 +6,7 @@
 
 ### **Matt Wilkin**
 
-#####link _This is a link to a live version of the site on GitHub Pages._
+#####_This is a **link** to a live version of the site on GitHub Pages._
 
 ####_Detailed Description_
 
@@ -36,5 +36,4 @@
 
 #### Support or contribution instructions
 
-_If you run into any issues, problems or have questions or suggestions. Please contact me_
-{mwilkin22@gmail.com}
+_If you run into any issues, problems or have questions or suggestions. Please contact me at_ <mwilkin22@gmail.com>
