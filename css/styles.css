@@ -21,7 +21,7 @@ img {
 }
 
 p {
-  color: blue; text-decoration: bold;
+  color: #000022; text-decoration: bold;
   font-family: sans-serif;
 }
 
@@ -40,4 +40,8 @@ p.intro {
   font-size: 15px;
   font-weight: bold;
   padding-left: 15px;
+}
+
+li {
+  font-weight: bold;
 }
