@@ -2,13 +2,17 @@
 
 ## _Week 1_
 
-#### _This project display my current development skill after the first week of Introduction to Programming at Epicodus. Latest version as of: 05/27/2016_
+#### _This project displays my current programming skills after the first week of Introduction to Programming at Epicodus._
+
+#####_Latest version as of: 05/27/2016_
 
 ### **Matt Wilkin**
 
-#####_This is a **link** to a live version of the site on GitHub Pages._
+#####_Please utilize the link following to navigate to a live version of the site on GitHub Pages._
 
-####_Detailed Description_
+#### <http://mwilkin.github.io/independent1/>
+
+####_This project utilizes CSS and Bootstrap to build styles and functionality into a simple website._
 
 #### Setup/Installation Requirements
 
