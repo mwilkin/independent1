@@ -1,12 +1,14 @@
-# _{Independent Project week 1}_
+# _Independent Project_
 
-#### _{This project display my current development skill after the first week of Introduction to Programming at Epicodus}, {Latest version as of: 05/27/2016}_
+## _Week 1_
 
-#### _**{Matt Wilkin}**_
+#### _This project display my current development skill after the first week of Introduction to Programming at Epicodus. Latest version as of: 05/27/2016_
 
-#####link _{This is a link to a live version of the site on GitHub Pages}_
+### **Matt Wilkin**
 
-####_{Detailed Description}_
+#####link _This is a link to a live version of the site on GitHub Pages._
+
+####_Detailed Description_
 
 #### Setup/Installation Requirements
 
@@ -34,5 +36,5 @@
 
 #### Support or contribution instructions
 
-_{If you run into any issues, problems or have questions or suggestions. Please contact me}_
+_If you run into any issues, problems or have questions or suggestions. Please contact me_
 {mwilkin22@gmail.com}
