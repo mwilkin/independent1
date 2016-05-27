@@ -1,16 +1,47 @@
 html {
-  margin: 0
-  padding: 0
+  margin: 10px;
+  padding: 5%;
+}
+
+body {
+  font-style: normal;
+  font-family: sans-serif;
 }
 
 img {
-  width: 75%;
-  float: right;
+  width: 60%;
 }
 
 .box {
-  border: 2px grey;
+  border: 4px grey;
   padding: 4px;
-  margin: 4px;
+  margin: auto;
   background: #8a8a8a;
+  align-content: center;
+}
+
+p {
+  color: #000022; text-decoration: bold;
+  font-family: sans-serif;
+}
+
+.sidebar {
+  width: 10px;
+  float: left;
+  background: #F2F2F2;
+}
+
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+.heading {
+  font-size: 15px;
+  font-weight: bold;
+  padding-left: 15px;
+}
+
+li {
+  font-weight: bold;
 }
