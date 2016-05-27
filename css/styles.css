@@ -45,3 +45,9 @@ p.intro {
 li {
   font-weight: bold;
 }
+
+.space {
+  boarder: 2px solid grey;
+  padding: 4px;
+  background-color: ivory;
+  }
